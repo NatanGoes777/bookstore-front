@@ -1,0 +1,17 @@
+.container{
+    height: 85%;
+    background-color: #2f2f2e;
+}
+
+i{
+    padding-right: 0.6rem;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+mat-sidenav{
+    background-color: #424242;
+}
